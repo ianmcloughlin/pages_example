@@ -1,3 +1,3 @@
 # pages_example
 
-[![pages-build-deployment](https://github.com/ianmcloughlin/pages_example/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ianmcloughlin/pages_example/actions/workflows/pages/pages-build-deployment)
+[![Deploy static content to Pages](https://github.com/ianmcloughlin/pages_example/actions/workflows/static.yml/badge.svg)](https://github.com/ianmcloughlin/pages_example/actions/workflows/static.yml)
